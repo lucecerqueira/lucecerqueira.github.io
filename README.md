@@ -2,7 +2,7 @@
 
 Connect with Me on Social Network and Portfolio
 
-Portfolio: [https://lucecerqueira.github.io/] (Under construction)
+Portfolio: https://lucecerqueira.github.io/ (Under construction)
 
 LinkedIn: https://www.linkedin.com/in/lucenildo-cerqueira-2534b228/
 
