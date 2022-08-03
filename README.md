@@ -36,14 +36,13 @@
 
  #### 📚 Tenho conhecimento básico:
  ![Pyspark](https://img.shields.io/badge/-Pyspark-black?style=flat-square&logo=Apache-Spark)
- ![Databricks](https://img.shields.io/badge/-Databricks-black?style=flat-square&logo=Databricks)
  ![Hadoop](https://img.shields.io/badge/-Hadoop-black?style=flat-square&logo=Apache-Hadoop)
  ![Airflow](https://img.shields.io/badge/-Airflow-black?style=flat-square&logo=Apache-Airflow)
  ![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=Amazon-AWS)
  ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=Docker)
  ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=plastic&logo=Mongodb)
  ![Heroku](https://img.shields.io/badge/-Heroku-black?style=plastic&logo=Heroku)
- ![Power BI](https://img.shields.io/badge/-Power%20BI-black?style=plastic&logo=Power-BI)
+
 
 
  
