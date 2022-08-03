@@ -5,7 +5,7 @@
 [![Kaggle Badge](https://img.shields.io/badge/-kaggle-blue?style=flat-square&logo=kaggle&logoColor=white&link=https://www.kaggle.com/lucenildocerqueira)](https://www.kaggle.com/lucenildocerqueira)
 [![Portifolio Badge](https://img.shields.io/badge/-Portfolio-purple?style=flat-square&logo=Portfolio&logoColor=purple&link=https://lucecerqueira.github.io/)](https://lucecerqueira.github.io/)
 [![ResearcherID Badge](https://img.shields.io/badge/-publons-blue?style=flat-square&logo=publons&logoColor=white&link=https://publons.com/wos-op/researcher/2495914/lucenildo-s-cerqueira/)](https://publons.com/wos-op/researcher/2495914/lucenildo-s-cerqueira/)
-
+![Github](https://img.shields.io/badge/-keras-black?style=flat-square&logo=keras)
 
 <p align="center">
   <img src="https://github.com/lucecerqueira/lucecerqueira.github.io/blob/main/vcg_mit.gif" alt="animated" />
