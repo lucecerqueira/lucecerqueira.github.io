@@ -11,10 +11,6 @@
   <img src="https://github.com/lucecerqueira/lucecerqueira.github.io/blob/main/vcg_mit.gif" alt="animated" />
 </p>
 
-**Engenheira de dados** com foco nos processos de coleta, estruturação e pré-processamento de dados, além do desenvolvimento de modelos analíticos (preditivos e descritivos) e demais processos que apoiem a squad de dados na evolução dos produtos e serviços.
-
-**Data engineer** with a focus on data collection, structuring and pre-processing processes, in addition to the development of analytical models (predictive and descriptive) and other processes that support the data squad in the evolution of products and services.
-
 
 
 <br>
