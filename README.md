@@ -17,15 +17,14 @@
  ## 🚀 **Linguagens e Ferramentas:**
 
  #### 💻 Uso diário:
- [![ResearcherID Badge](https://img.shields.io/badge/-publons-blue?style=flat-square&logo=publons&logoColor=white&link=https://publons.com/wos-op/researcher/2495914/lucenildo-s-cerqueira/)](https://publons.com/wos-op/researcher/2495914/lucenildo-s-cerqueira/)
 
  [![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)](https://www.python.org/doc/)
- ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=PostgreSQL)
- ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux)
- ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=Git)
- ![Github](https://img.shields.io/badge/-Github-black?style=flat-square&logo=Github)
- ![Github](https://img.shields.io/badge/-keras-black?style=flat-square&logo=keras)
- ![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code)
+ [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=PostgreSQL)](https://www.postgresql.org/docs/manuals/archive/)
+ [![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux)](https://pt.wikipedia.org/wiki/Linux)
+ [![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=Git)](https://git-scm.com/)
+ [![Github](https://img.shields.io/badge/-Github-black?style=flat-square&logo=Github)](https://github.com/)
+ [![Keras](https://img.shields.io/badge/-keras-black?style=flat-square&logo=keras)](https://keras.io/guides/)
+ [![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code)](https://code.visualstudio.com/docs)
  
  #### 🎲 Ciência de dados:
  ![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=Pandas)
