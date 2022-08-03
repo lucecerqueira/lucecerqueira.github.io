@@ -23,6 +23,7 @@
  ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux)
  ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=Git)
  ![Github](https://img.shields.io/badge/-Github-black?style=flat-square&logo=Github)
+ ![Github](https://img.shields.io/badge/-keras-black?style=flat-square&logo=keras)
  ![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code)
  
  #### 🎲 Ciência de dados:
