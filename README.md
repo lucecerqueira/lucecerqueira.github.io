@@ -5,7 +5,6 @@
 [![Kaggle Badge](https://img.shields.io/badge/-kaggle-blue?style=flat-square&logo=kaggle&logoColor=white&link=https://www.kaggle.com/lucenildocerqueira)](https://www.kaggle.com/lucenildocerqueira)
 [![Portifolio Badge](https://img.shields.io/badge/-Portfolio-purple?style=flat-square&logo=Portfolio&logoColor=purple&link=https://lucecerqueira.github.io/)](https://lucecerqueira.github.io/)
 [![ResearcherID Badge](https://img.shields.io/badge/-publons-blue?style=flat-square&logo=publons&logoColor=white&link=https://publons.com/wos-op/researcher/2495914/lucenildo-s-cerqueira/)](https://publons.com/wos-op/researcher/2495914/lucenildo-s-cerqueira/)
-![Github](https://img.shields.io/badge/-keras-black?style=flat-square&logo=keras)
 
 <p align="center">
   <img src="https://github.com/lucecerqueira/lucecerqueira.github.io/blob/main/vcg_mit.gif" alt="animated" />
@@ -18,7 +17,9 @@
  ## 🚀 **Linguagens e Ferramentas:**
 
  #### 💻 Uso diário:
- ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+ [![ResearcherID Badge](https://img.shields.io/badge/-publons-blue?style=flat-square&logo=publons&logoColor=white&link=https://publons.com/wos-op/researcher/2495914/lucenildo-s-cerqueira/)](https://publons.com/wos-op/researcher/2495914/lucenildo-s-cerqueira/)
+
+ [![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)](https://www.python.org/doc/)
  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=PostgreSQL)
  ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux)
  ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=Git)
